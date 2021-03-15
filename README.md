@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 💻 **Top languages used in projects**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztqakita&exclude_repo=Jekyll-Blog&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztqakita&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
