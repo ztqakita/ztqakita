@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### I'm a Computer Science Student 
 
 - 👨‍💻 I’m currently working on study in BCI.
-- 📚 I’m currently learning everything about ML, DL and computational neuroscience.
+- 📚 I’m currently learning everything about ML, DL and Brain-inspired computing.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play soccer, basketball and tennis. I am also interested in Japanese culture.
 
