@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-### I'm a Computer Science Student 
+### I major in Computer Science
 
 - 👨‍💻 I’m currently working on study in BCI.
 - 📚 I’m currently learning everything about ML, DL and Brain-inspired computing.
