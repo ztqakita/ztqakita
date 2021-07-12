@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ### I major in Computer Science
 
-- 👨‍💻 I’m currently working on study in BCI.
-- 📚 I’m currently learning everything about ML, DL and Brain-inspired computing.
+- 👨‍💻 I’m currently working on study in brain-inspired computing.
+- 📚 I’m currently learning everything about AI and computational neuroscience.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play soccer, basketball and tennis. I am also interested in Japanese culture.
 
