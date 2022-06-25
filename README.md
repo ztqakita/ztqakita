@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm ztqakita<img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm ztqakita
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -29,12 +29,6 @@ Here are some ideas to get you started:
 📊 **This week I spent my time on**
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ztqakita)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-💻 **Top languages used in projects**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztqakita&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
