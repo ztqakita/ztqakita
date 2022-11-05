@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-### I major in Computer Science
+### I major in Computational Neuroscience
 
 - 👨‍💻 I’m currently working on study in brain-inspired computing.
 - 📚 I’m currently learning everything about AI and computational neuroscience.
